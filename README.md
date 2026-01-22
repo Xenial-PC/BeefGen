@@ -7,3 +7,7 @@ Lots are still missing so if you want to add to this project feel free to leave 
 
 
 ~ This project was used to make OnnxRuntime bindings. (To be released soon)  
+
+
+This tool is loosely based off of, for structure and functionality: 
+https://github.com/Starpelly/raylib-beef/tree/main/generator
